@@ -1,6 +1,6 @@
-701 : u.s. oil industri histori 
+701 : us oil industri histori 
 702 : pearl farm 
-703 : u.s. intern crimin court 
+703 : us intern crimin court 
 704 : green parti polit view 
 705 : iraq foreign debt reduct 
 706 : control type ii diabet 
@@ -29,7 +29,7 @@
 729 : whistl blower depart defens 
 730 : gastric bypass complic 
 731 : kurd histori 
-732 : u.s. chees product 
+732 : us chees product 
 733 : airlin overbook 
 734 : recycl success 
 735 : afghan women condit 
@@ -82,12 +82,12 @@
 782 : orang varieti season 
 783 : school mercuri poison 
 784 : mersenn prime 
-785 : ivory-bil woodpeck 
+785 : ivory bil woodpeck 
 786 : yew tree 
 787 : sunflow cultiv 
 788 : revers mortgag 
 789 : abandon mine reclam 
-790 : women' right saudi arabia 
+790 : women right saudi arabia 
 791 : gullah geeche languag cultur 
 792 : social secur mean test 
 793 : bagpip band 
@@ -96,7 +96,7 @@
 796 : blue grass music festiv histori 
 797 : reintroduct gray wolv 
 798 : massachusett textil mill 
-799 : anim alzheimer' research 
+799 : anim alzheimer research 
 800 : ovarian cancer treatment 
 801 : kudzu pueraria lobata 
 802 : volcano erupt global temperatur 
@@ -104,7 +104,7 @@
 804 : ban human clone 
 805 : ident theft passport 
 806 : doctor without border 
-807 : sugar tariff-r quota 
+807 : sugar tariffr quota 
 808 : north korean counterfeit 
 809 : wetland wastewat treatment 
 810 : timeshar resal 
